@@ -16,3 +16,7 @@ img{
 a{
     margin-right: 50px;
 }
+div{
+    width: 50px;
+    display: inline-block;
+}
